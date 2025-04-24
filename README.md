@@ -3,6 +3,11 @@ FYP_UNITYGAME_EducationalGAME
 
 <video width="320" height="240" controls>   <source src="https://pdm888.oss-cn-beijing.aliyuncs.com/%E6%8B%BC%E9%9F%B3/M/20250424_155519.mp4" type="video/mp4">   <source src="movie.ogg" type="video/ogg">   <source src="movie.webm" type="video/webm">   <object data="movie.mp4" width="320" height="240">     <embed src="movie.swf" width="320" height="240">   </object>  </video>
 
+<video width="640" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 # UnityGame_Downlaod LINK
 https://drive.google.com/file/d/1yfApPB8Q4fnyy4OkNAJGKYdRAM1X5E3X/view?usp=drive_link
