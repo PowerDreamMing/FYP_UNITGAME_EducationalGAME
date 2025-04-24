@@ -3,12 +3,16 @@ FYP_UNITYGAME_EducationalGAME
 
 
 # UnityGame_Downlaod LINK
-https://drive.google.com/file/d/1yfApPB8Q4fnyy4OkNAJGKYdRAM1X5E3X/view?usp=drive_link
+<audio src=https://drive.google.com/file/d/1yfApPB8Q4fnyy4OkNAJGKYdRAM1X5E3X/view?usp=drive_link></audio>
 
 
 ## 4.2 Start Game
 
 ![image-20250424151712304](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250424151712304.png) 
+
+
+
+https://pdm888.oss-cn-beijing.aliyuncs.com/%E6%8B%BC%E9%9F%B3/M/20250424_155519.mp4
 
 Figure 4.2: Main Page of Game
 
