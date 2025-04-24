@@ -5,7 +5,8 @@
   Your browser does not support the video tag.
 </video>
 
-[![Watch the video](thumbnail.jpg)](https://pdm888.oss-cn-beijing.aliyuncs.com/%E6%8B%BC%E9%9F%B3/M/20250424_155519.mp4)
+[![Watch the video](thumbnail.jpg)]()
+🎬 [點我觀看影片](https://pdm888.oss-cn-beijing.aliyuncs.com/%E6%8B%BC%E9%9F%B3/M/20250424_155519.mp4)
 
 
 # FYP_UNITGAME_EducationalGAME
