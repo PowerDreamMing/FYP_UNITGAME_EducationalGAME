@@ -1,0 +1,405 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1745475437855633, "dur":5157, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745475437860875, "dur":354, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745475437861558, "dur":112, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1745475437861242, "dur":2310, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745475437863553, "dur":263892, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745475438127446, "dur":216, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745475438127662, "dur":134, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745475438127925, "dur":789, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1745475437861787, "dur":2789, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745475437864576, "dur":2044, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745475437866628, "dur":986, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1745475437866621, "dur":994, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1745475437870929, "dur":1928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1745475437872902, "dur":236, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745475437872901, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745475437873148, "dur":6627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745475437879848, "dur":6656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745475437886634, "dur":5666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745475437892403, "dur":5200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745475437897651, "dur":4607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745475437902324, "dur":11431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":1, "ts":1745475437913824, "dur":125536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1745475438039409, "dur":88057, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745475437861752, "dur":2820, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745475437864573, "dur":2290, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745475437866870, "dur":14399, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745475437866864, "dur":14406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745475437881449, "dur":20514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745475437902074, "dur":131465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets9.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1745475438033602, "dur":93863, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745475437861489, "dur":2259, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745475437863754, "dur":468, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745475437864222, "dur":2418, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745475437866640, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1745475437871312, "dur":2689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1745475437874070, "dur":6686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745475437880812, "dur":7367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745475437888235, "dur":6267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745475437894554, "dur":4911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745475437899513, "dur":6237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745475437905907, "dur":6650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":3, "ts":1745475437912709, "dur":25717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1745475437938496, "dur":188966, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745475437861701, "dur":2688, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745475437864393, "dur":2250, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745475437866656, "dur":836, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1745475437866644, "dur":849, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1745475437872602, "dur":9035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1745475437881733, "dur":5904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745475437887739, "dur":1932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745475437889706, "dur":9202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745475437898963, "dur":9514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745475437908643, "dur":7076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets17.assets" }}
+,{ "pid":12345, "tid":4, "ts":1745475437915834, "dur":12759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1745475437928757, "dur":7190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level12.resS" }}
+,{ "pid":12345, "tid":4, "ts":1745475437936009, "dur":191435, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745475437861715, "dur":2714, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745475437864430, "dur":2300, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745475437866744, "dur":550, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1745475437866731, "dur":564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1745475437872685, "dur":8432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1745475437881386, "dur":2800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745475437884264, "dur":9668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745475437894064, "dur":7605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745475437901755, "dur":29347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets9.resource" }}
+,{ "pid":12345, "tid":5, "ts":1745475437931196, "dur":5800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level10" }}
+,{ "pid":12345, "tid":5, "ts":1745475437937137, "dur":190332, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745475437861549, "dur":2332, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745475437863914, "dur":951, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745475437864865, "dur":1868, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745475437866752, "dur":757, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1745475437866740, "dur":770, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1745475437872508, "dur":6808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1745475437879432, "dur":7351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745475437886863, "dur":1813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745475437888733, "dur":5483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745475437894294, "dur":2109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745475437896461, "dur":4476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745475437901022, "dur":8463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745475437909593, "dur":9388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets15.assets" }}
+,{ "pid":12345, "tid":6, "ts":1745475437919065, "dur":4860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level7" }}
+,{ "pid":12345, "tid":6, "ts":1745475437924105, "dur":8349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level18" }}
+,{ "pid":12345, "tid":6, "ts":1745475437932605, "dur":6501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1745475437939212, "dur":188255, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745475437861388, "dur":2174, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745475437863565, "dur":955, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745475437864520, "dur":2349, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745475437866869, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1745475437868126, "dur":2093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1745475437870247, "dur":1348, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745475437870247, "dur":1349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745475437871949, "dur":3502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745475437875609, "dur":8149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745475437883894, "dur":5297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745475437889234, "dur":9416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745475437898711, "dur":2029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745475437900775, "dur":8261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745475437909122, "dur":6231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets16.assets" }}
+,{ "pid":12345, "tid":7, "ts":1745475437915612, "dur":4033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1745475437919869, "dur":3606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level6" }}
+,{ "pid":12345, "tid":7, "ts":1745475437923735, "dur":6087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level18.resS" }}
+,{ "pid":12345, "tid":7, "ts":1745475437929954, "dur":6300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level11.resS" }}
+,{ "pid":12345, "tid":7, "ts":1745475437936408, "dur":191033, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745475437861412, "dur":2155, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745475437863569, "dur":678, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745475437864247, "dur":2485, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745475437866733, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1745475437872501, "dur":10854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1745475437883425, "dur":6001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745475437889462, "dur":5740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745475437895295, "dur":5021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745475437900374, "dur":7202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745475437907774, "dur":34283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets18.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1745475437942113, "dur":185357, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745475437861432, "dur":2156, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745475437863589, "dur":706, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745475437864296, "dur":2433, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745475437866730, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1745475437873823, "dur":5161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1745475437879094, "dur":7962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745475437887144, "dur":5818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745475437893031, "dur":5075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745475437898164, "dur":5755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745475437904001, "dur":10901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1745475437915004, "dur":5057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1745475437920219, "dur":7071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level5.resS" }}
+,{ "pid":12345, "tid":9, "ts":1745475437927495, "dur":6891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level14" }}
+,{ "pid":12345, "tid":9, "ts":1745475437934448, "dur":193000, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745475437861458, "dur":2167, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745475437863628, "dur":454, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745475437864083, "dur":195, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745475437864278, "dur":2366, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745475437866645, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1745475437872492, "dur":7606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1745475437880159, "dur":2849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745475437883066, "dur":5876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745475437889000, "dur":5953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745475437895061, "dur":4628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745475437899754, "dur":7249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745475437907098, "dur":10825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets18.resource" }}
+,{ "pid":12345, "tid":10, "ts":1745475437917999, "dur":4576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level8" }}
+,{ "pid":12345, "tid":10, "ts":1745475437922678, "dur":8003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level2.resS" }}
+,{ "pid":12345, "tid":10, "ts":1745475437930864, "dur":6564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level10.resS" }}
+,{ "pid":12345, "tid":10, "ts":1745475437937508, "dur":189950, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745475437861468, "dur":2162, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745475437863633, "dur":444, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745475437864078, "dur":613, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745475437864691, "dur":2149, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745475437866846, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1745475437873919, "dur":6520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1745475437880563, "dur":3965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745475437884679, "dur":5463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745475437890226, "dur":5456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745475437895722, "dur":4827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745475437900588, "dur":7365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745475437908047, "dur":6462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets18.assets" }}
+,{ "pid":12345, "tid":11, "ts":1745475437914692, "dur":6530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1745475437921301, "dur":5539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level4" }}
+,{ "pid":12345, "tid":11, "ts":1745475437927099, "dur":7547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level14.resS" }}
+,{ "pid":12345, "tid":11, "ts":1745475437934689, "dur":192753, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745475437861581, "dur":2429, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745475437864037, "dur":826, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745475437864864, "dur":1877, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745475437866744, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1745475437872514, "dur":6056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1745475437878662, "dur":6243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745475437885020, "dur":4904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745475437889979, "dur":6175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745475437896194, "dur":8194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745475437904553, "dur":6254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":12, "ts":1745475437910963, "dur":5971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets12.assets" }}
+,{ "pid":12345, "tid":12, "ts":1745475437917046, "dur":4655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level9" }}
+,{ "pid":12345, "tid":12, "ts":1745475437921795, "dur":6020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level3.resS" }}
+,{ "pid":12345, "tid":12, "ts":1745475437927899, "dur":7734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level13.resS" }}
+,{ "pid":12345, "tid":12, "ts":1745475437935702, "dur":191745, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745475437861574, "dur":2340, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745475437863917, "dur":461, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745475437864379, "dur":2260, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745475437866639, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1745475437870729, "dur":1895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1745475437872667, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745475437872665, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745475437872746, "dur":1820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745475437874679, "dur":11548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745475437886323, "dur":5716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745475437892204, "dur":5204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745475437897499, "dur":5391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745475437902952, "dur":224405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets8.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1745475437861611, "dur":2563, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745475437864178, "dur":2483, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745475437866662, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1745475437872580, "dur":9387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1745475437882039, "dur":9346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745475437891514, "dur":5414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745475437896987, "dur":2103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745475437899122, "dur":6231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745475437905532, "dur":6591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":14, "ts":1745475437912212, "dur":20665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":14, "ts":1745475437933020, "dur":5736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level0" }}
+,{ "pid":12345, "tid":14, "ts":1745475437938866, "dur":188595, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745475437861630, "dur":2601, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745475437864232, "dur":2350, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745475437867032, "dur":548, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1745475437867582, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics_Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1745475437867888, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1745475437869440, "dur":72970, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745475437869438, "dur":72975, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745475437942443, "dur":99378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745475438041848, "dur":85606, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745475437861654, "dur":2581, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745475437864235, "dur":2425, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745475437866671, "dur":557, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1745475437866660, "dur":569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1745475437872432, "dur":5832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1745475437878369, "dur":12014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745475437890481, "dur":5432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745475437896015, "dur":5427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745475437901484, "dur":2709, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":16, "ts":1745475437901482, "dur":2715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":16, "ts":1745475437904222, "dur":6147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":16, "ts":1745475437910471, "dur":6939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets13.assets" }}
+,{ "pid":12345, "tid":16, "ts":1745475437917511, "dur":4594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level8.resS" }}
+,{ "pid":12345, "tid":16, "ts":1745475437922231, "dur":3723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level3" }}
+,{ "pid":12345, "tid":16, "ts":1745475437926039, "dur":7975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level15.resS" }}
+,{ "pid":12345, "tid":16, "ts":1745475437934115, "dur":5291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":16, "ts":1745475437939513, "dur":187959, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1745475437861673, "dur":2569, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1745475437864242, "dur":2342, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1745475437866587, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":17, "ts":1745475437870875, "dur":2878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":17, "ts":1745475437873827, "dur":5770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":17, "ts":1745475437879663, "dur":6264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":17, "ts":1745475437885969, "dur":1956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1745475437887975, "dur":5658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1745475437893753, "dur":1715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1745475437895571, "dur":4510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1745475437900114, "dur":6116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1745475437906318, "dur":6698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":17, "ts":1745475437913129, "dur":2992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":17, "ts":1745475437916283, "dur":8053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/resources.assets" }}
+,{ "pid":12345, "tid":17, "ts":1745475437924483, "dur":7095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level17.resS" }}
+,{ "pid":12345, "tid":17, "ts":1745475437931657, "dur":6391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level1.resS" }}
+,{ "pid":12345, "tid":17, "ts":1745475437938166, "dur":189294, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1745475437861695, "dur":2558, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1745475437864254, "dur":2329, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1745475437866621, "dur":788, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":18, "ts":1745475437866587, "dur":823, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":18, "ts":1745475437871285, "dur":965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":18, "ts":1745475437872298, "dur":141, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":18, "ts":1745475437872297, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":18, "ts":1745475437872455, "dur":2450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":18, "ts":1745475437875009, "dur":12352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":18, "ts":1745475437887408, "dur":5847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1745475437893386, "dur":5012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1745475437898485, "dur":5020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1745475437903605, "dur":15653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets7.resource" }}
+,{ "pid":12345, "tid":18, "ts":1745475437919368, "dur":5323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level6.resS" }}
+,{ "pid":12345, "tid":18, "ts":1745475437924786, "dur":7273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level17" }}
+,{ "pid":12345, "tid":18, "ts":1745475437932144, "dur":5623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level1" }}
+,{ "pid":12345, "tid":18, "ts":1745475437937876, "dur":189608, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1745475437861757, "dur":2772, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1745475437864561, "dur":2073, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1745475437866642, "dur":710, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":19, "ts":1745475437866635, "dur":718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":19, "ts":1745475437871028, "dur":2421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":19, "ts":1745475437873573, "dur":639, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":19, "ts":1745475437873571, "dur":642, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":19, "ts":1745475437874231, "dur":11051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":19, "ts":1745475437885406, "dur":5276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1745475437890754, "dur":5910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1745475437896764, "dur":4438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1745475437901251, "dur":8688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1745475437910116, "dur":6378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets14.assets" }}
+,{ "pid":12345, "tid":19, "ts":1745475437916647, "dur":8466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level9.resS" }}
+,{ "pid":12345, "tid":19, "ts":1745475437925226, "dur":5031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level16.resS" }}
+,{ "pid":12345, "tid":19, "ts":1745475437930452, "dur":9322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level11" }}
+,{ "pid":12345, "tid":19, "ts":1745475437939866, "dur":187607, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1745475437861733, "dur":2838, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1745475437864571, "dur":2276, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1745475437866854, "dur":1366, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":20, "ts":1745475437866848, "dur":1372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":20, "ts":1745475437869534, "dur":963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":20, "ts":1745475437870524, "dur":1597, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
+,{ "pid":12345, "tid":20, "ts":1745475437870523, "dur":1598, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":20, "ts":1745475437872311, "dur":10269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":20, "ts":1745475437882660, "dur":5778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":20, "ts":1745475437888493, "dur":6228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1745475437894771, "dur":5105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1745475437899917, "dur":6786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1745475437906979, "dur":6425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":20, "ts":1745475437913563, "dur":15779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":20, "ts":1745475437929492, "dur":5818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level12" }}
+,{ "pid":12345, "tid":20, "ts":1745475437935427, "dur":192029, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1745475437861368, "dur":2191, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1745475437863560, "dur":3021, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1745475437867222, "dur":799, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":21, "ts":1745475437868076, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":21, "ts":1745475437868336, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\great\\OneDrive\\\\FYP Game 12_All_SceneAdd HP_Correct Anwser_\\CODE\\LearningGame\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437868387, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\great\\OneDrive\\\\FYP Game 12_All_SceneAdd HP_Correct Anwser_\\CODE\\LearningGame\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437868448, "dur":442, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\great\\OneDrive\\\\FYP Game 12_All_SceneAdd HP_Correct Anwser_\\CODE\\LearningGame\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437868892, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\great\\OneDrive\\\\FYP Game 12_All_SceneAdd HP_Correct Anwser_\\CODE\\LearningGame\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437868980, "dur":137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\great\\OneDrive\\\\FYP Game 12_All_SceneAdd HP_Correct Anwser_\\CODE\\LearningGame\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437869119, "dur":430, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\great\\OneDrive\\\\FYP Game 12_All_SceneAdd HP_Correct Anwser_\\CODE\\LearningGame\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437869551, "dur":224, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\great\\OneDrive\\\\FYP Game 12_All_SceneAdd HP_Correct Anwser_\\CODE\\LearningGame\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437869777, "dur":134, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\netstandard.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437869912, "dur":161, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437870073, "dur":172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437870246, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437870317, "dur":604, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Core.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437870965, "dur":1598, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437872565, "dur":363, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437872929, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437873023, "dur":152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437873176, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437873270, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437873361, "dur":569, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437873939, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerc7986e19-inputdata.json" }}
+,{ "pid":12345, "tid":21, "ts":1745475437874021, "dur":434, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.BuildTools.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437874457, "dur":166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Core.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437874624, "dur":1444, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.CSharpSupport.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437876070, "dur":1823, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.DotNet.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437877893, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.NativeProgramSupport.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437878062, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Stevedore.Program.exe" }}
+,{ "pid":12345, "tid":21, "ts":1745475437878167, "dur":513, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TinyProfiler2.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437878681, "dur":564, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.GNU.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437879246, "dur":503, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.LLVM.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437879750, "dur":791, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.VisualStudio.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437880542, "dur":477, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.Xcode.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437881020, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Tools.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437881134, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TundraBackend.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437881219, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.VisualStudioSolution.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437881275, "dur":200, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.Data.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437881479, "dur":152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437881632, "dur":310, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\BeeLocalCacheTool.exe" }}
+,{ "pid":12345, "tid":21, "ts":1745475437881945, "dur":2725, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437884674, "dur":210, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\NiceIO.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437884889, "dur":139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.Data.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437885031, "dur":229, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437885261, "dur":198, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.Data.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437885461, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.exe" }}
+,{ "pid":12345, "tid":21, "ts":1745475437885541, "dur":887, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\SharpYaml.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437886430, "dur":401, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Api.Attributes.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437886833, "dur":1083, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437887917, "dur":352, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437888270, "dur":627, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437888898, "dur":349, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437889293, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.BuildLogic.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437889364, "dur":166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437889531, "dur":268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Linker.Api.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437889800, "dur":485, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Options.dll" }}
+,{ "pid":12345, "tid":21, "ts":1745475437868022, "dur":22264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":21, "ts":1745475437890625, "dur":165209, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":21, "ts":1745475438059881, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":21, "ts":1745475438059881, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics_Data/boot.config" }}
+,{ "pid":12345, "tid":21, "ts":1745475438059951, "dur":968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/boot.config" }}
+,{ "pid":12345, "tid":21, "ts":1745475438060921, "dur":66534, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1745475437861782, "dur":2784, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1745475437864567, "dur":2065, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1745475437866633, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":22, "ts":1745475437870930, "dur":2161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":22, "ts":1745475437873121, "dur":371, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Security.dll" }}
+,{ "pid":12345, "tid":22, "ts":1745475437873120, "dur":373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":22, "ts":1745475437873522, "dur":8648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":22, "ts":1745475437882226, "dur":10381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":22, "ts":1745475437892673, "dur":5198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1745475437897949, "dur":5229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1745475437903397, "dur":7808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":22, "ts":1745475437911287, "dur":7159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":22, "ts":1745475437918558, "dur":4387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level7.resS" }}
+,{ "pid":12345, "tid":22, "ts":1745475437923038, "dur":5150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level2" }}
+,{ "pid":12345, "tid":22, "ts":1745475437928282, "dur":6680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level13" }}
+,{ "pid":12345, "tid":22, "ts":1745475437935007, "dur":192469, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1745475437861800, "dur":2659, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1745475437864459, "dur":2126, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1745475437866587, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":23, "ts":1745475437870857, "dur":3451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":23, "ts":1745475437874366, "dur":16642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":23, "ts":1745475437891154, "dur":8114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1745475437899309, "dur":5570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1745475437904970, "dur":6645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":23, "ts":1745475437911686, "dur":2424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":23, "ts":1745475437914166, "dur":6627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":23, "ts":1745475437920879, "dur":5505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level4.resS" }}
+,{ "pid":12345, "tid":23, "ts":1745475437926485, "dur":7132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level15" }}
+,{ "pid":12345, "tid":23, "ts":1745475437933698, "dur":2880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":23, "ts":1745475437936621, "dur":190830, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1745475437861867, "dur":2598, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1745475437864516, "dur":2350, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1745475437866872, "dur":264, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":24, "ts":1745475437866868, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics.exe" }}
+,{ "pid":12345, "tid":24, "ts":1745475437867145, "dur":2593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics.exe" }}
+,{ "pid":12345, "tid":24, "ts":1745475437869777, "dur":2687, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.53f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
+,{ "pid":12345, "tid":24, "ts":1745475437869777, "dur":2688, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":24, "ts":1745475437872474, "dur":13131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":24, "ts":1745475437885684, "dur":6044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1745475437891849, "dur":5310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1745475437897218, "dur":5306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1745475437902576, "dur":17780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/sharedassets8.resource" }}
+,{ "pid":12345, "tid":24, "ts":1745475437920616, "dur":4918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level5" }}
+,{ "pid":12345, "tid":24, "ts":1745475437925636, "dur":7628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/level16" }}
+,{ "pid":12345, "tid":24, "ts":1745475437933528, "dur":11069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/great/Downloads/FYP_Mazematics_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":24, "ts":1745475437944665, "dur":182810, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745475438129791, "dur":767, "ph":"X", "name": "ProfilerWriteOutput" }
+,
